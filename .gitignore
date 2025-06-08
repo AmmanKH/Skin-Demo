@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
+
+# Python virtual environment files
+.env
+venv/
+ENV/
+Scripts/
+
+
+
+# Uploads (keep folder, ignore files)
+uploads/*
+!uploads/.gitkeep
+
+# Ignore annotated/generated outputs (optional)
+static/outputs/*
+!static/outputs/.gitkeep
