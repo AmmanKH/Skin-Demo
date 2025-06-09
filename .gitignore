@@ -14,14 +14,9 @@ __pycache__/
 .env
 venv/
 ENV/
-Scripts/
 
 
 
-# Uploads (keep folder, ignore files)
-uploads/*
-!uploads/.gitkeep
 
-# Ignore annotated/generated outputs (optional)
-static/outputs/*
-!static/outputs/.gitkeep
+
+
